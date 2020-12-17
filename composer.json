@@ -1,5 +1,5 @@
 {
-    "name": "Danillao/ecommerce",
+    "name": "danillao/ecommerce",
     "authors": [
         {
             "name": "Danillo Lima Andrade Filho",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcode\\php-classes\\src"
         }
     }
 }
