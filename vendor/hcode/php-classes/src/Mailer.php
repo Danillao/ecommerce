@@ -4,6 +4,7 @@ namespace Hcode;
 
 use Rain\Tpl;
 use \Hcode\Mailer;
+use \Hcode\Model;
 
 class Mailer {
 
